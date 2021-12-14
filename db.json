@@ -2,13 +2,20 @@
   "projects": [
     {
       "name": "TPJ Café",
-      "budget": "17005",
+      "budget": "5000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Meu serviço",
+          "cost": "1000",
+          "description": "Cria a interface para interagir com usuário",
+          "id": "4030f565-e070-4ea3-8ff8-d364f99458f1"
+        }
+      ],
       "id": 2
     },
     {
@@ -24,7 +31,7 @@
     },
     {
       "name": "Gabriel Guarini",
-      "budget": "1000200",
+      "budget": "1000",
       "category": {
         "id": "4",
         "name": "Planejamento"
